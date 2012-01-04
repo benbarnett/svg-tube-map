@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg2"
+   height="600.00000"
+   width="900.00000"
+   y="0.00000000"
+   x="0.00000000"
+   version="1.0">
+  <defs
+     id="defs3">
+    <g transform="scale(0.2) translate(-186, -460)"
+       id="rail">
+      <rect
+         id="body"
+         style="fill:#808080;stroke:none;"
+         y="477.49323"
+         x="186.32202"
+         height="24.131897"
+         width="90.994476" />
+      <circle
+         id="boiler"
+         style="fill:#808080"
+         transform="translate(231.8686,481.5260)"
+         r="10"
+         cy="0"
+         cx="0" />
+      <circle
+         id="wheel1"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         transform="translate(201.8686,503.5260)"
+         r="10"
+         cy="0"
+         cx="0" />
+      <circle
+         id="wheel2"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         transform="translate(231.8686,503.5260)"
+         r="10"
+         cy="0"
+         cx="0" />
+      <circle
+         id="wheel3"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         transform="translate(261.8686,503.5260)"
+         r="10"
+         cy="0"
+         cx="0" />
+      <rect
+         id="chimney"
+         style="fill:#808080;"
+         y="461.22095"
+         x="255.97266"
+         height="23.334524"
+         width="14.142136" />
+      <rect
+         id="cabin"
+         style="fill:none;stroke:#808080;stroke-width:4;"
+         y="462.04932"
+         x="188.32202"
+         height="20"
+         width="20" />
+    </g>
+  </defs>
+  <defs
+     id="defs6">
+    <circle
+       id="intersection"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.5000000"
+       r="4.0000000"
+       cy="0.00000000"
+       cx="0.00000000" />
+  </defs>
+  <g
+     id="lines"
+     transform="translate(-122.0000,0.000000)">
+    <path
+       id="path10"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000"
+       d="M 176.07413,50.000000 C 196.12293,68.497656 221.89996,86.483827 236.22053,105.49297" />
+    <path
+       id="path12"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 236.22053,105.49297 C 250.54110,124.50211 255.20856,147.50602 261.99756,164.05485" />
+    <path
+       id="path14"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 261.99756,164.05485 C 268.78656,180.60368 270.69590,189.34103 276.95451,204.78595" />
+    <path
+       id="path16"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 276.95451,204.78595 C 283.21313,220.23088 284.96347,241.27949 299.54924,256.72442" />
+    <path
+       id="path18"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 299.54924,256.72442 C 314.13500,272.16935 343.88991,284.13423 364.46909,297.45552" />
+    <path
+       id="path20"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 364.46909,297.45552 C 385.04828,310.77681 408.12033,327.06342 423.02434,336.65216" />
+    <path
+       id="path22"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 423.02434,336.65216 C 437.92834,346.24090 436.65540,350.06410 453.89311,354.98796" />
+    <path
+       id="path24"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 453.89311,354.98796 C 471.13083,359.91182 503.59078,367.46756 526.45064,366.19532" />
+    <path
+       id="path26"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 526.45064,366.19532 C 549.31051,364.92308 574.55714,351.34281 591.05231,347.35452" />
+    <path
+       id="path28"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 591.05231,347.35452 C 607.54747,343.36622 615.18508,338.78551 625.42163,342.26556" />
+    <path
+       id="path30"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 625.42163,342.26556 C 635.65818,345.74560 646.95555,358.39031 652.47162,368.23479" />
+    <path
+       id="path32"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 652.47162,368.23479 C 657.98769,378.07927 653.26717,388.94349 658.51804,401.33245" />
+    <path
+       id="path34"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 658.51804,401.33245 C 663.76891,413.72142 675.70272,439.51584 683.97683,442.56856" />
+    <path
+       id="path36"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 683.97683,442.56856 C 692.25094,445.62129 701.58585,425.67335 708.16270,419.64882" />
+    <path
+       id="path38"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 708.16270,419.64882 C 714.73955,413.62430 717.70972,408.71015 723.43795,406.42141" />
+    <path
+       id="path40"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 723.43795,406.42141 C 729.16617,404.13268 733.78056,406.68039 742.53202,405.91640" />
+    <path
+       id="path42"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 742.53202,405.91640 C 751.28349,405.15241 767.67261,395.38886 775.94672,401.83746" />
+    <path
+       id="path44"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 775.94672,401.83746 C 784.22083,408.28607 785.59984,433.06723 792.17669,444.60803" />
+    <path
+       id="path46"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 792.17669,444.60803 C 798.75353,456.14884 806.49722,465.14192 815.40779,471.08228" />
+    <path
+       id="path48"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 815.40779,471.08228 C 824.31836,477.02263 839.32845,478.21394 845.64011,480.25017" />
+    <path
+       id="path50"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 845.64011,480.25017 C 851.95177,482.28641 847.76168,479.56711 853.27776,483.29967" />
+    <path
+       id="path52"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 853.27776,483.29967 C 858.79383,487.03222 873.00832,495.60122 878.73654,502.64548" />
+    <path
+       id="path54"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 878.73654,502.64548 C 884.46477,509.68974 880.11555,517.67280 887.64710,525.56522" />
+    <path
+       id="path56"
+       style="fill:none;stroke:#ae6017;stroke-width:4.5000000"
+       d="M 887.64710,525.56522 C 895.17866,533.45764 911.83295,541.85507 923.92587,550.00000" />
+  </g>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="405.91641"
+     x="742.53204"
+     id="Baker Street"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text60"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:start;writing-mode:lr-tb"
+     y="417.465"
+     x="616.62866"><tspan
+       id="tspan62"
+       style="font-family:Verdana"
+       y="421.465"
+       x="616.62866">Baker</tspan><tspan
+       id="tspan64"
+       style="font-family:Verdana"
+       y="433.465"
+       x="616.62866">Street</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="406.42142"
+     x="723.43793"
+     id="Marylebone"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text67"
+     style="font-size:11.000000;font-family:Verdana"
+     y="389.77597"
+     x="567.59845"><tspan
+       id="tspan69"
+       y="393.77597"
+       x="567.59845">Marylebone</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="402.42142"
+     x="763.43793"
+     id="use71"
+     transform="translate(-170.8395,-28.64545)" />
+  <line
+     x1="653.94672"
+     y1="401.83746"
+     x2="657.02032"
+     y2="397.89374"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line73" />
+  <text
+     id="text77"
+     style="font-size:11.000000;font-family:Verdana"
+     y="377.32098"
+     x="660.30151"><tspan
+       id="tspan79"
+       y="381.32098"
+       x="660.30151">Regent's</tspan><tspan
+       id="tspan81"
+       y="393.32098"
+       x="660.30151">Park</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="480.25018"
+     x="845.64014"
+     id="Charing Cross"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text84"
+     style="font-size:11.000000;font-family:Verdana"
+     y="458.25018"
+     x="708.64014"><tspan
+       id="tspan86"
+       y="462.25018"
+       x="708.64014">Charing</tspan><tspan
+       id="tspan88"
+       y="474.25018"
+       x="708.64014">Cross</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="488.25018"
+     x="885.64014"
+     id="use90"
+     transform="translate(-144.0000,-22.00000)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="483.29965"
+     x="853.27777"
+     id="Embankment"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text93"
+     style="font-size:11.000000;font-family:Verdana"
+     y="483.29965"
+     x="740.27777"><tspan
+       id="tspan95"
+       y="487.29965"
+       x="740.27777">Embankment</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="471.08228"
+     x="815.40778"
+     id="Piccadilly Circus"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text98"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:end;writing-mode:lr-tb"
+     y="480.82431"
+     x="690.40692"><tspan
+       id="tspan100"
+       style="font-family:Verdana"
+       y="484.82431"
+       x="690.40692">Piccadilly</tspan><tspan
+       id="tspan102"
+       style="font-family:Verdana"
+       y="496.82431"
+       x="690.40692">Circus</tspan></text>
+  <line
+     x1="586.16272"
+     y1="419.64883"
+     x2="582.78540"
+     y2="415.96185"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line104" />
+  <text
+     id="text108"
+     style="font-size:11.000000;font-family:Verdana"
+     y="402.80991"
+     x="546.646"><tspan
+       id="tspan110"
+       y="406.80991"
+       x="546.646">Edgware</tspan><tspan
+       id="tspan112"
+       y="418.80991"
+       x="546.646">Road</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="442.56857"
+     x="683.97681"
+     id="Paddington"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text115"
+     style="font-size:11.000000;font-family:Verdana"
+     y="455.47198"
+     x="531.49243"><tspan
+       id="tspan117"
+       y="459.47198"
+       x="531.49243">Paddington</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="438.56857"
+     x="723.97681"
+     id="use119"
+     transform="translate(-168.8404,25.41961)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="550.00000"
+     x="923.92584"
+     id="Elephant &amp; Castle"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text122"
+     style="font-size:11.000000;font-family:Verdana"
+     y="550"
+     x="808.92584"><tspan
+       id="tspan124"
+       y="554"
+       x="808.92584">Elephant &amp;</tspan><tspan
+       id="tspan126"
+       y="566"
+       x="808.92584">Castle</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="558.00000"
+     x="963.92584"
+     id="use128"
+     transform="translate(-116.0000,0.000000)" />
+  <line
+     x1="765.64709"
+     y1="525.56525"
+     x2="762.02985"
+     y2="529.01709"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line132" />
+  <text
+     id="text134"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:end;writing-mode:lr-tb"
+     y="537.2428"
+     x="761.48486"><tspan
+       id="tspan136"
+       style="font-family:Verdana"
+       y="541.2428"
+       x="761.48486">Lambeth</tspan><tspan
+       id="tspan138"
+       style="font-family:Verdana"
+       y="553.2428"
+       x="761.48486">North</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="502.64548"
+     x="878.73657"
+     id="Waterloo"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text141"
+     style="font-size:11.000000;font-family:Verdana"
+     y="502.64548"
+     x="763.73657"><tspan
+       id="tspan143"
+       y="506.64548"
+       x="763.73657">Waterloo</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="498.64548"
+     x="918.73657"
+     id="use145"
+     transform="translate(-104.0000,0.000000)" />
+  <line
+     x1="301.02435"
+     y1="336.65216"
+     x2="303.72964"
+     y2="332.44724"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line147" />
+  <text
+     id="text151"
+     style="font-size:11.000000;font-family:Verdana"
+     y="322.4584"
+     x="295.76611"><tspan
+       id="tspan153"
+       y="326.4584"
+       x="295.76611">Harlesden</tspan></text>
+  <line
+     x1="242.46909"
+     y1="297.45551"
+     x2="245.18613"
+     y2="293.25818"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line155" />
+  <text
+     id="text159"
+     style="font-size:11.000000;font-family:Verdana"
+     y="282.61658"
+     x="249.46909"><tspan
+       id="tspan161"
+       y="286.61658"
+       x="249.46909">Stonebridge</tspan><tspan
+       id="tspan163"
+       y="298.61658"
+       x="249.46909">Park</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="354.98795"
+     x="453.89313"
+     id="Willesden Junction"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text166"
+     style="font-size:11.000000;font-family:Verdana"
+     y="367.89136"
+     x="292.44086"><tspan
+       id="tspan168"
+       y="371.89136"
+       x="292.44086">Willesden</tspan><tspan
+       id="tspan170"
+       y="383.89136"
+       x="292.44086">Junction</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="362.98795"
+     x="493.89313"
+     id="use172"
+     transform="translate(-152.4523,12.90341)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="50.000000"
+     x="176.07413"
+     id="Harrow &amp; Wealdstone"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text175"
+     style="font-size:11.000000;font-family:Verdana"
+     y="26.128695"
+     x="23.009079"><tspan
+       id="tspan177"
+       y="30.128695"
+       x="23.009079">Harrow &amp;</tspan><tspan
+       id="tspan179"
+       y="42.128693"
+       x="23.009079">Wealdstone</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="58.000000"
+     x="216.07413"
+     id="use181"
+     transform="translate(-132.0651,-23.87131)" />
+  <line
+     x1="114.22054"
+     y1="105.49297"
+     x2="118.21410"
+     y2="102.48441"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line183" />
+  <text
+     id="text187"
+     style="font-size:11.000000;font-family:Verdana"
+     y="96.460587"
+     x="121.22054"><tspan
+       id="tspan189"
+       y="100.46059"
+       x="121.22054">Kenton</tspan></text>
+  <line
+     x1="404.45062"
+     y1="366.19531"
+     x2="404.72845"
+     y2="371.18759"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line193" />
+  <text
+     id="text195"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="381.03424"
+     x="404.9989"><tspan
+       id="tspan197"
+       style="font-family:Verdana"
+       y="385.03424"
+       x="404.9989">Kensal</tspan><tspan
+       id="tspan199"
+       style="font-family:Verdana"
+       y="397.03424"
+       x="404.9989">Green</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="347.35452"
+     x="591.05231"
+     id="Queen's Park"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text202"
+     style="font-size:11.000000;font-family:Verdana"
+     y="322.19287"
+     x="434.76141"><tspan
+       id="tspan204"
+       y="326.19287"
+       x="434.76141">Queens</tspan><tspan
+       id="tspan206"
+       y="338.19287"
+       x="434.76141">Park</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="355.35452"
+     x="631.05231"
+     id="use208"
+     transform="translate(-169.2909,-25.16165)" />
+  <line
+     x1="139.99756"
+     y1="164.05486"
+     x2="144.62341"
+     y2="162.15714"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line210" />
+  <text
+     id="text214"
+     style="font-size:11.000000;font-family:Verdana"
+     y="153.08696"
+     x="150.22342"><tspan
+       id="tspan216"
+       y="157.08696"
+       x="150.22342">South</tspan><tspan
+       id="tspan218"
+       y="169.08696"
+       x="150.22342">Kenton</tspan></text>
+  <line
+     x1="503.42163"
+     y1="342.26556"
+     x2="505.03101"
+     y2="337.53165"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line220" />
+  <text
+     id="text224"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="315.81357"
+     x="509.77649"><tspan
+       id="tspan226"
+       style="font-family:Verdana"
+       y="319.81357"
+       x="509.77649">Kilburn</tspan><tspan
+       id="tspan228"
+       style="font-family:Verdana"
+       y="331.81357"
+       x="509.77649">Park</tspan></text>
+  <line
+     x1="530.47162"
+     y1="368.23480"
+     x2="534.83356"
+     y2="365.79071"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line230" />
+  <text
+     id="text234"
+     style="font-size:11.000000;font-family:Verdana"
+     y="353.3959"
+     x="539.4071"><tspan
+       id="tspan236"
+       y="357.3959"
+       x="539.4071">Maida</tspan><tspan
+       id="tspan238"
+       y="369.3959"
+       x="539.4071">Vale</tspan></text>
+  <line
+     x1="536.51807"
+     y1="401.33246"
+     x2="531.91443"
+     y2="403.28360"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line242" />
+  <text
+     id="text244"
+     style="font-size:11.000000;font-family:Verdana"
+     y="398.1066"
+     x="479.64618"><tspan
+       id="tspan246"
+       y="402.1066"
+       x="479.64618">Warwick</tspan><tspan
+       id="tspan248"
+       y="414.1066"
+       x="479.64618">Avenue</tspan></text>
+  <line
+     x1="154.95453"
+     y1="204.78595"
+     x2="159.58850"
+     y2="202.90816"
+     style="stroke:#ae6017;stroke-width:4.5000000;stroke-linecap:square"
+     id="line250" />
+  <text
+     id="text254"
+     style="font-size:11.000000;font-family:Verdana"
+     y="195.1084"
+     x="163.89005"><tspan
+       id="tspan256"
+       y="199.1084"
+       x="163.89005">North</tspan><tspan
+       id="tspan258"
+       y="211.1084"
+       x="163.89005">Wembley</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="256.72443"
+     x="299.54922"
+     id="Wembley Central"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text261"
+     style="font-size:11.000000;font-family:Verdana"
+     y="241.88551"
+     x="185.1944"><tspan
+       id="tspan263"
+       y="245.88551"
+       x="185.1944">Wembley</tspan><tspan
+       id="tspan265"
+       y="257.8855"
+       x="185.1944">Central</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="264.72443"
+     x="339.54922"
+     id="use267"
+     transform="translate(-111.3548,-14.83892)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="444.60803"
+     x="792.17670"
+     id="Oxford Circus"
+     transform="translate(-122.0000,0.000000)" />
+  <text
+     id="text270"
+     style="font-size:11.000000;font-family:Verdana"
+     y="427.12393"
+     x="675.1767"><tspan
+       id="tspan272"
+       y="431.12393"
+       x="675.1767">Oxford</tspan><tspan
+       id="tspan274"
+       y="443.12393"
+       x="675.1767">Circus</tspan></text>
+</svg>

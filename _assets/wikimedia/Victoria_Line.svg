@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg2"
+   height="570.00000"
+   width="470.00000"
+   y="0.00000000"
+   x="0.00000000"
+   version="1.0">
+  <defs
+     id="defs3">
+    <g
+       id="rail"
+       transform="matrix(0.200000,0.000000,0.000000,0.200000,-37.20000,-92.00000)">
+      <rect
+         id="body"
+         style="fill:#808080;stroke:none"
+         y="477.49323"
+         x="186.32202"
+         height="24.131897"
+         width="90.994476" />
+      <circle
+         id="boiler"
+         style="fill:#808080"
+         transform="translate(231.8686,481.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <circle
+         id="wheel1"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3.0000000"
+         transform="translate(201.8686,503.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <circle
+         id="wheel2"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3.0000000"
+         transform="translate(231.8686,503.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <circle
+         id="wheel3"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3.0000000"
+         transform="translate(261.8686,503.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <rect
+         id="chimney"
+         style="fill:#808080"
+         y="461.22095"
+         x="255.97266"
+         height="23.334524"
+         width="14.142136" />
+      <rect
+         id="cabin"
+         style="fill:none;stroke:#808080;stroke-width:4.0000000"
+         y="462.04932"
+         x="188.32202"
+         height="20.000000"
+         width="20.000000" />
+    </g>
+  </defs>
+  <defs
+     id="defs13">
+    <circle
+       id="intersection"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.5000000"
+       r="4.0000000"
+       cy="0.00000000"
+       cx="0.00000000" />
+  </defs>
+  <g
+     id="lines"
+     transform="translate(-332.0000,-6.000000)">
+    <path
+       id="path17"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000"
+       d="M 469.32254,550.00000 C 462.26741,537.24885 452.63923,527.28401 448.15715,511.74656" />
+    <path
+       id="path19"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 448.15715,511.74656 C 443.67506,496.20910 446.74611,468.06235 442.43004,456.77528" />
+    <path
+       id="path21"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 442.43004,456.77528 C 438.11396,445.48821 430.31185,450.92911 422.26070,444.02413" />
+    <path
+       id="path23"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 422.26070,444.02413 C 414.20955,437.11916 398.02423,426.89849 394.12316,415.34545" />
+    <path
+       id="path25"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 394.12316,415.34545 C 390.22208,403.79242 397.52622,386.99099 398.85425,374.70592" />
+    <path
+       id="path27"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 398.85425,374.70592 C 400.18228,362.42084 401.67632,354.91555 402.09133,341.63500" />
+    <path
+       id="path29"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 402.09133,341.63500 C 402.50634,328.35446 404.40558,311.26612 407.64264,302.50193" />
+    <path
+       id="path31"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 407.24900,302.10829 C 410.48606,295.70596 414.04354,291.77280 421.51367,289.04982" />
+    <path
+       id="path33"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 421.51367,289.04982 C 428.98381,286.32684 433.83939,290.50630 446.16511,278.68476" />
+    <path
+       id="path35"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 446.16511,278.68476 C 458.49084,266.86323 488.28838,240.29960 495.46801,218.12061" />
+    <path
+       id="path37"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 495.46801,218.12061 C 502.64764,195.94162 477.16618,169.64649 489.24290,145.61081" />
+    <path
+       id="path39"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 489.24290,145.61081 C 501.31962,121.57512 548.38147,89.841637 567.92833,73.906502" />
+    <path
+       id="path41"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 567.92833,73.906502 C 587.47519,57.971367 592.74579,52.988946 606.52404,50.000000" />
+    <path
+       id="path43"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 606.52404,50.000000 C 620.30229,47.011054 634.03903,52.520340 650.59783,55.972826" />
+    <path
+       id="path45"
+       style="fill:none;stroke:#0a9cda;stroke-width:4.5000000"
+       d="M 650.59783,55.972826 C 667.15663,59.425312 687.45051,65.800886 705.87684,70.714915" />
+  </g>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="55.972824"
+     x="650.59784"
+     id="Blackhorse Road"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text49"
+     style="font-size:11.000000;font-family:Verdana"
+     y="29.972824"
+     x="325.59784"><tspan
+       id="tspan51"
+       y="33.972824"
+       x="325.59784">Blackhorse</tspan><tspan
+       id="tspan53"
+       y="45.972824"
+       x="325.59784">Road</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="63.972824"
+     x="690.59784"
+     id="use55"
+     transform="translate(-334.0000,-26.00000)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="50.000000"
+     x="606.52405"
+     id="Tottenham Hale"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text58"
+     style="font-size:11.000000;font-family:Verdana"
+     y="20"
+     x="247.52405"><tspan
+       id="tspan60"
+       y="24"
+       x="247.52405">Tottenham</tspan><tspan
+       id="tspan62"
+       y="36"
+       x="247.52405">Hale</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="58.000000"
+     x="646.52405"
+     id="use64"
+     transform="translate(-370.0000,-30.00000)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="70.714912"
+     x="705.87683"
+     id="Walthamstow Central"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text67"
+     style="font-size:11.000000;font-family:Verdana"
+     y="64.714912"
+     x="380.87683"><tspan
+       id="tspan69"
+       y="68.714912"
+       x="380.87683">Walthamstow</tspan><tspan
+       id="tspan71"
+       y="80.714912"
+       x="380.87683">Central</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="78.714912"
+     x="745.87683"
+     id="use73"
+     transform="translate(-322.0000,-6.000000)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="550.00000"
+     x="469.32254"
+     id="Brixton"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text76"
+     style="font-size:11.000000;font-family:Verdana"
+     y="544"
+     x="144.32254"><tspan
+       id="tspan78"
+       y="548"
+       x="144.32254">Brixton</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="546.00000"
+     x="509.32254"
+     id="use80"
+     transform="translate(-322.0000,-6.000000)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="511.74655"
+     x="448.15714"
+     id="Stockwell"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text83"
+     style="font-size:11.000000;font-family:Verdana"
+     y="505.74655"
+     x="125.15714"><tspan
+       id="tspan85"
+       y="509.74658"
+       x="125.15714">Stockwell</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="289.04980"
+     x="421.51367"
+     id="Euston"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text88"
+     style="font-size:11.000000;font-family:Verdana"
+     y="272.03629"
+     x="59.354675"><tspan
+       id="tspan90"
+       y="276.03629"
+       x="59.354675">Euston</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="285.04980"
+     x="461.51367"
+     id="use92"
+     transform="translate(-391.0933,-31.15586)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="278.68475"
+     x="446.16510"
+     id="King's Cross St. Pancras"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text95"
+     style="font-size:11.000000;font-family:Verdana"
+     y="272.68475"
+     x="121.1651"><tspan
+       id="tspan97"
+       y="276.68475"
+       x="121.1651">King's Cross</tspan><tspan
+       id="tspan99"
+       y="288.68475"
+       x="121.1651">St. Pancras</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="286.68475"
+     x="486.16510"
+     id="use101"
+     transform="translate(-300.0000,-6.000000)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="295.02264"
+     x="401.34430"
+     id="Warren Street"
+     transform="translate(-325.7017,1.872928)" />
+  <text
+     id="text104"
+     style="font-size:11.000000;font-family:Verdana"
+     y="293.62225"
+     x="29.266726"><tspan
+       id="tspan106"
+       y="297.62225"
+       x="29.266726">Warren</tspan><tspan
+       id="tspan108"
+       y="309.62225"
+       x="29.266726">Street</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="145.61081"
+     x="489.24289"
+     id="Finsbury Park"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text111"
+     style="font-size:11.000000;font-family:Verdana"
+     y="139.61081"
+     x="164.24289"><tspan
+       id="tspan113"
+       y="143.61081"
+       x="164.24289">Finsbury</tspan><tspan
+       id="tspan115"
+       y="155.61081"
+       x="164.24289">Park</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="153.61081"
+     x="529.24292"
+     id="use117"
+     transform="translate(-338.0000,-6.000000)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="218.12061"
+     x="495.46802"
+     id="Highbury &amp; Islington"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text120"
+     style="font-size:11.000000;font-family:Verdana"
+     y="212.12061"
+     x="170.46802"><tspan
+       id="tspan122"
+       y="216.12061"
+       x="170.46802">Highbury &amp;</tspan><tspan
+       id="tspan124"
+       y="228.12061"
+       x="170.46802">Islington</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="226.12061"
+     x="535.46802"
+     id="use126"
+     transform="translate(-312.0000,-6.000000)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="73.906502"
+     x="567.92834"
+     id="Seven Sisters"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text129"
+     style="font-size:11.000000;font-family:Verdana"
+     y="78.855408"
+     x="231.97943"><tspan
+       id="tspan131"
+       y="82.855408"
+       x="231.97943">Seven</tspan><tspan
+       id="tspan133"
+       y="94.855408"
+       x="231.97943">Sisters</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="81.906502"
+     x="607.92834"
+     id="use135"
+     transform="translate(-335.7555,4.354020)" />
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="374.70593"
+     x="398.85425"
+     id="Green Park"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text138"
+     style="font-size:11.000000;font-family:Verdana"
+     y="362.70593"
+     x="73.854248"><tspan
+       id="tspan140"
+       y="366.70593"
+       x="73.854248">Green</tspan><tspan
+       id="tspan142"
+       y="378.70593"
+       x="73.854248">Park</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="341.63501"
+     x="402.09134"
+     id="Oxford Circus"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text145"
+     style="font-size:11.000000;font-family:Verdana"
+     y="329.63501"
+     x="77.091339"><tspan
+       id="tspan147"
+       y="333.63501"
+       x="77.091339">Oxford</tspan><tspan
+       id="tspan149"
+       y="345.63501"
+       x="77.091339">Circus</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="415.34546"
+     x="394.12317"
+     id="Victoria"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text152"
+     style="font-size:11.000000;font-family:Verdana"
+     y="409.34546"
+     x="69.123169"><tspan
+       id="tspan154"
+       y="413.34546"
+       x="69.123169">Victoria</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="411.34546"
+     x="434.12317"
+     id="use156"
+     transform="translate(-320.0000,-6.000000)" />
+  <line
+     x1="90.260712"
+     y1="438.02414"
+     x2="87.005653"
+     y2="441.81949"
+     style="stroke:#0a9cda;stroke-width:4.5000000;stroke-linecap:square"
+     id="line160" />
+  <text
+     id="text162"
+     style="font-size:11.000000;font-family:Verdana"
+     y="448.51685"
+     x="45.709633"><tspan
+       id="tspan164"
+       y="452.51685"
+       x="45.709633">Pimlico</tspan></text>
+  <use
+     xlink:href="#intersection"
+     height="600.00000"
+     width="1000.0000"
+     y="456.77527"
+     x="442.43002"
+     id="Vauxhall"
+     transform="translate(-332.0000,-6.000000)" />
+  <text
+     id="text167"
+     style="font-size:11.000000;font-family:Verdana"
+     y="450.77527"
+     x="117.43002"><tspan
+       id="tspan169"
+       y="454.77527"
+       x="117.43002">Vauxhall</tspan></text>
+  <use
+     xlink:href="#rail"
+     height="600.00000"
+     width="1000.0000"
+     y="452.77527"
+     x="482.43002"
+     id="use171"
+     transform="translate(-316.0000,-6.000000)" />
+</svg>

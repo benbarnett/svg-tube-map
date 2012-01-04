@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="720.00000"
+   width="1200.0000"
+   y="0.00000000"
+   x="0.00000000"
+   version="1.0"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docname="Central Line.svg"
+   sodipodi:docbase="C:\Documents and Settings\Administrator\Desktop\Wiki\tube"
+   inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\Wiki\tube\Central Line.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata251">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="753"
+     inkscape:window-width="1005"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="2.9384215"
+     inkscape:cx="2.8211538"
+     inkscape:cy="301.38616"
+     inkscape:window-x="66"
+     inkscape:window-y="66"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs2137">
+    <g
+       id="rail"
+       transform="matrix(0.200000,0.000000,0.000000,0.200000,-37.20000,-92.00000)">
+      <rect
+         id="body"
+         style="fill:#808080;stroke:none"
+         y="477.49323"
+         x="186.32202"
+         height="24.131897"
+         width="90.994476" />
+      <circle
+         id="boiler"
+         style="fill:#808080"
+         transform="translate(231.8686,481.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <circle
+         id="wheel1"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3.0000000"
+         transform="translate(201.8686,503.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <circle
+         id="wheel2"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3.0000000"
+         transform="translate(231.8686,503.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <circle
+         id="wheel3"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3.0000000"
+         transform="translate(261.8686,503.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <rect
+         id="chimney"
+         style="fill:#808080"
+         y="461.22095"
+         x="255.97266"
+         height="23.334524"
+         width="14.142136" />
+      <rect
+         id="cabin"
+         style="fill:none;stroke:#808080;stroke-width:4.0000000"
+         y="462.04932"
+         x="188.32202"
+         height="20.000000"
+         width="20.000000" />
+    </g>
+  </defs>
+  <defs
+     id="defs2147">
+    <circle
+       id="intersection"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.5000000"
+       r="4.0000000"
+       cy="0.00000000"
+       cx="0.00000000" />
+  </defs>
+  <g
+     id="lines"
+     transform="translate(-8.000000,-42.00000)">
+    <path
+       id="path2151"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000"
+       d="M 50.000000,494.30458 C 68.150499,503.87726 91.553340,516.26819 104.45150,523.02264" />
+    <path
+       id="path2153"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 104.45150,523.02264 C 117.34966,529.77709 113.56000,528.28985 127.38894,534.83126" />
+    <path
+       id="path2155"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 127.38894,534.83126 C 141.21789,541.37266 169.74009,554.50620 187.42519,562.27107" />
+    <path
+       id="path2157"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 187.42519,562.27107 C 205.11028,570.03594 218.37409,575.19562 233.49951,581.42050" />
+    <path
+       id="path2159"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 233.49951,581.42050 C 248.62493,587.64539 260.79178,593.18448 278.17770,599.62038" />
+    <path
+       id="path2161"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 278.17770,599.62038 C 295.56362,606.05628 316.70593,613.17594 337.81503,620.03589" />
+    <path
+       id="path2163"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 337.81503,620.03589 C 358.92412,626.89585 389.57387,633.65232 404.83226,640.78010" />
+    <path
+       id="path2165"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 404.83226,640.78010 C 420.09065,647.90788 417.46447,656.57970 429.36535,662.80256" />
+    <path
+       id="path2167"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 429.36535,662.80256 C 441.26622,669.02542 466.69686,671.62859 476.23751,678.11724" />
+    <path
+       id="path2169"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 476.23751,678.11724 C 485.77815,684.60589 480.65878,699.34028 486.60922,701.73447" />
+    <path
+       id="path2171"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 486.60922,701.73447 C 492.55966,704.12866 504.62676,695.03480 511.94015,692.48236" />
+    <path
+       id="path2173"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 511.94015,692.48236 C 519.25354,689.92991 524.40614,688.12210 530.48955,686.41979" />
+    <path
+       id="path2175"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 530.48955,686.41979 C 536.57296,684.71748 541.42639,683.59952 548.44060,682.26851" />
+    <path
+       id="path2177"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 548.44060,682.26851 C 555.45480,680.93751 562.90115,679.97578 572.57477,678.43376" />
+    <path
+       id="path2179"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 572.57477,678.43376 C 582.24839,676.89174 597.77272,674.23784 606.48230,673.01640" />
+    <path
+       id="path2181"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 606.48230,673.01640 C 615.19189,671.79496 619.14777,671.84974 624.83227,671.10511" />
+    <path
+       id="path2183"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 624.83227,671.10511 C 630.51677,670.36048 634.47265,669.77208 640.58930,668.54861" />
+    <path
+       id="path2185"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 640.58930,668.54861 C 646.70595,667.32514 654.38501,665.04052 661.53218,663.76429" />
+    <path
+       id="path2187"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 661.53218,663.76429 C 668.67935,662.48807 676.85705,661.95648 683.47234,660.89127" />
+    <path
+       id="path2189"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 683.47234,660.89127 C 690.08763,659.82606 693.67783,655.88377 701.22392,657.37303" />
+    <path
+       id="path2191"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 701.22392,657.37303 C 708.77001,658.86230 721.26926,667.06137 728.74886,669.82686" />
+    <path
+       id="path2193"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 728.74886,669.82686 C 736.22846,672.59235 741.11513,675.66827 746.10153,673.96596" />
+    <path
+       id="path2195"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 746.10153,673.96596 C 751.08793,672.26365 751.20799,664.51682 758.66726,659.61302"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path2197"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 758.66726,659.61302 C 769.87004,652.32698 796.99606,634.02565 813.31821,630.24974" />
+    <path
+       id="path2199"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 813.31821,630.24974 C 829.64037,626.47382 839.74614,644.72239 856.60018,636.95752" />
+    <path
+       id="path2201"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 856.60018,636.95752 C 873.45421,629.19264 905.16772,600.52124 914.44243,583.66049" />
+    <path
+       id="path2203"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 914.44243,583.66049 C 923.71713,566.79973 908.09308,549.99376 912.24841,535.79299" />
+    <path
+       id="path2205"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 912.24841,535.79299 C 916.40374,521.59222 930.43215,511.32765 939.37443,498.45585" />
+    <path
+       id="path2207"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 939.37443,498.45585 C 948.31671,485.58406 959.51949,471.00995 965.90208,458.56221" />
+    <path
+       id="path2209"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 965.90208,458.56221 C 972.28468,446.11447 973.51466,437.70438 977.66999,423.76940" />
+    <path
+       id="path2211"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 977.66999,423.76940 C 981.82532,409.83443 984.31852,393.51338 990.83409,374.95234" />
+    <path
+       id="path2213"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 990.83409,374.95234 C 997.34965,356.39131 1009.5497,330.59496 1016.7634,312.40320" />
+    <path
+       id="path2215"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1016.7634,312.40320 C 1023.9770,294.21144 1021.9160,275.85534 1034.1160,265.80178" />
+    <path
+       id="path2217"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1034.1160,265.80178 C 1046.3161,255.74823 1074.1735,268.30350 1089.9637,252.08188" />
+    <path
+       id="path2219"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1089.9637,252.08188 C 1105.7540,235.86025 1118.8516,194.10807 1128.8577,168.47201" />
+    <path
+       id="path2221"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000"
+       d="M 1128.8577,168.47201 C 1138.8637,142.83595 1142.9526,121.66769 1150.0000,98.265531" />
+  </g>
+  <g
+     id="g2223"
+     transform="translate(-8.000000,-42.00000)">
+    <path
+       id="path2225"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000"
+       d="M 321.06073,667.90339 C 334.88968,664.92486 348.58566,663.48835 362.54758,658.96780" />
+    <path
+       id="path2227"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 362.54758,658.96780 C 376.50950,654.44725 393.69596,640.14097 404.83226,640.78010" />
+  </g>
+  <g
+     id="g2229"
+     transform="translate(-8.000000,-42.00000)">
+    <path
+       id="path2231"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000"
+       d="M 990.83409,374.95234 C 997.34965,364.20691 996.61832,348.40731 1010.3808,342.71604" />
+    <path
+       id="path2233"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1010.3808,342.71604 C 1024.1432,337.02478 1057.3194,338.73114 1073.4089,340.80475" />
+    <path
+       id="path2235"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1073.4089,340.80475 C 1089.4983,342.87836 1101.0003,347.34007 1106.9175,355.15770" />
+    <path
+       id="path2237"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1106.9175,355.15770 C 1112.8347,362.97532 1109.2777,378.56188 1108.9121,387.71052" />
+    <path
+       id="path2239"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1108.9121,387.71052 C 1108.5464,396.85915 1106.2527,400.79536 1104.7235,410.04950" />
+    <path
+       id="path2241"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1104.7235,410.04950 C 1103.1943,419.30364 1100.1692,432.38442 1099.7371,443.23536" />
+    <path
+       id="path2243"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1099.7371,443.23536 C 1099.3049,454.08630 1109.5769,470.31401 1102.1306,475.15514" />
+    <path
+       id="path2245"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1102.1306,475.15514 C 1094.6842,479.99627 1069.8519,472.65545 1055.0589,472.28212" />
+    <path
+       id="path2247"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1055.0589,472.28212 C 1040.2659,471.90879 1025.8386,473.44675 1013.3726,472.91516" />
+    <path
+       id="path2249"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 1013.3726,472.91516 C 1000.9066,472.38357 992.59595,464.83579 980.26292,469.09257" />
+    <path
+       id="path2251"
+       style="fill:none;stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:round"
+       d="M 980.26292,469.09257 C 967.92989,473.34936 953.09241,479.85211 939.37443,498.45585"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="673.96594"
+     x="746.10150"
+     id="Bank"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2255"
+     style="font-size:11.000000;font-family:Verdana"
+     y="632.51849"
+     x="745.1015">
+    <tspan
+       id="tspan2257"
+       y="636.51849"
+       x="745.1015">Bank</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="659.61304"
+     x="758.66724"
+     id="Liverpool Street"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2260"
+     style="font-size:11.000000;font-family:Verdana"
+     y="620.06628"
+     x="757.82184">
+    <tspan
+       id="tspan2262"
+       y="624.06628"
+       x="757.82184">Liverpool Street</tspan>
+    <tspan
+       id="tspan2264"
+       y="636.06628"
+       x="757.82184" />
+  </text>
+  <use
+     xlink:href="#rail"
+     height="800.00000"
+     width="1200.0000"
+     y="667.61304"
+     x="798.66724"
+     id="use2266"
+     transform="translate(49.96072,-53.64748)" />
+  <line
+     x1="720.74884"
+     y1="627.82684"
+     x2="719.01489"
+     y2="632.51654"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2270" />
+  <text
+     id="text2272"
+     style="font-size:11.000000;font-family:Verdana"
+     y="643.34076"
+     x="705.73798">
+    <tspan
+       id="tspan2274"
+       y="647.34076"
+       x="705.73798">St. Paul's</tspan>
+  </text>
+  <line
+     x1="1091.7371"
+     y1="401.23535"
+     x2="1096.7332"
+     y2="401.43433"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2278" />
+  <text
+     id="text2280"
+     style="font-size:11.000000;font-family:Verdana"
+     y="401.78784"
+     x="1101.9634">
+    <tspan
+       id="tspan2282"
+       y="405.78784"
+       x="1101.9634">Barkingside</tspan>
+  </text>
+  <line
+     x1="1096.7235"
+     y1="368.04950"
+     x2="1101.6566"
+     y2="368.86465"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2286" />
+  <text
+     id="text2288"
+     style="font-size:11.000000;font-family:Verdana"
+     y="369.66266"
+     x="1106.0881">
+    <tspan
+       id="tspan2290"
+       y="373.66266"
+       x="1106.0881">Fairlop</tspan>
+  </text>
+  <line
+     x1="1094.1306"
+     y1="433.15515"
+     x2="1096.8558"
+     y2="437.34711"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2294" />
+  <text
+     id="text2296"
+     style="font-size:11.000000;font-family:Verdana"
+     y="446.08298"
+     x="1097.5951">
+    <tspan
+       id="tspan2298"
+       y="450.08298"
+       x="1097.5951">Newbury</tspan>
+    <tspan
+       id="tspan2300"
+       y="462.08298"
+       x="1097.5951">Park</tspan>
+  </text>
+  <line
+     x1="805.31824"
+     y1="588.24976"
+     x2="804.19128"
+     y2="583.37842"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2302" />
+  <text
+     id="text2306"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="561.17792"
+     x="801.26849">
+    <tspan
+       id="tspan2308"
+       style="font-family:Verdana"
+       y="565.17792"
+       x="801.26849">Bethnal</tspan>
+    <tspan
+       id="tspan2310"
+       style="font-family:Verdana"
+       y="577.17792"
+       x="801.26849">Green</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="636.95752"
+     x="856.60016"
+     id="Mile End"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2313"
+     style="font-size:11.000000;font-family:Verdana"
+     y="598.81427"
+     x="855.66614">
+    <tspan
+       id="tspan2315"
+       y="602.81427"
+       x="855.66614">Mile End</tspan>
+    <tspan
+       id="tspan2317"
+       y="614.81427"
+       x="855.66614" />
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="671.10510"
+     x="624.83228"
+     id="Bond Street"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2320"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="639.25983"
+     x="615.62231">
+    <tspan
+       id="tspan2322"
+       style="font-family:Verdana"
+       y="643.25983"
+       x="615.62231">Bond</tspan>
+    <tspan
+       id="tspan2324"
+       style="font-family:Verdana"
+       y="655.25983"
+       x="615.62231">Street</tspan>
+  </text>
+  <line
+     x1="598.48230"
+     y1="631.01642"
+     x2="597.78790"
+     y2="626.06488"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2326" />
+  <text
+     id="text2330"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:end;writing-mode:lr-tb"
+     y="606.15454"
+     x="600.16736">
+    <tspan
+       id="tspan2332"
+       style="font-family:Verdana"
+       y="610.15454"
+       x="600.16736">Marble</tspan>
+    <tspan
+       id="tspan2334"
+       style="font-family:Verdana"
+       y="622.15454"
+       x="600.16736">Arch</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="668.54858"
+     x="640.58929"
+     id="Oxford Circus"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2337"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:end;writing-mode:lr-tb"
+     y="603.13422"
+     x="642.40698">
+    <tspan
+       id="tspan2339"
+       style="font-family:Verdana"
+       y="607.13422"
+       x="642.40698">Oxford</tspan>
+    <tspan
+       id="tspan2341"
+       style="font-family:Verdana"
+       y="619.13422"
+       x="642.40698">Circus</tspan>
+  </text>
+  <line
+     x1="1008.7634"
+     y1="270.40320"
+     x2="1004.1155"
+     y2="268.56015"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2343" />
+  <text
+     id="text2347"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:end;writing-mode:lr-tb"
+     y="258.80099"
+     x="997.53137">
+    <tspan
+       id="tspan2349"
+       style="font-family:Verdana"
+       y="262.80099"
+       x="997.53137">Buckhurst</tspan>
+    <tspan
+       id="tspan2351"
+       style="font-family:Verdana"
+       y="274.80099"
+       x="997.53137">Hill</tspan>
+  </text>
+  <line
+     x1="1026.1161"
+     y1="223.80179"
+     x2="1022.9363"
+     y2="219.94315"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2353" />
+  <text
+     id="text2357"
+     style="font-size:11.000000;font-family:Verdana"
+     y="210.65242"
+     x="978.99414">
+    <tspan
+       id="tspan2359"
+       y="214.65242"
+       x="978.99414">Loughton</tspan>
+  </text>
+  <line
+     x1="982.83411"
+     y1="332.95233"
+     x2="978.55865"
+     y2="330.35992"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2361" />
+  <text
+     id="text2365"
+     style="font-size:11.000000;font-family:Verdana"
+     y="326.87497"
+     x="920.22083">
+    <tspan
+       id="tspan2367"
+       y="330.87497"
+       x="920.22083">Woodford</tspan>
+  </text>
+  <line
+     x1="693.22394"
+     y1="615.37305"
+     x2="694.19202"
+     y2="610.46765"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2369" />
+  <text
+     id="text2373"
+     style="font-size:11.000000;font-family:Verdana"
+     y="589.22888"
+     x="691.91406">
+    <tspan
+       id="tspan2375"
+       y="593.22888"
+       x="691.91406">Chancery</tspan>
+    <tspan
+       id="tspan2377"
+       y="605.22888"
+       x="691.91406">Lane</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="660.89130"
+     x="683.47235"
+     id="Holborn"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2380"
+     style="font-size:11.000000;font-family:Verdana"
+     y="606.73657"
+     x="647.87561">
+    <tspan
+       id="tspan2382"
+       y="610.73657"
+       x="647.87561">Holborn</tspan>
+  </text>
+  <line
+     x1="1065.4089"
+     y1="298.80475"
+     x2="1066.0480"
+     y2="293.84576"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2384" />
+  <text
+     id="text2388"
+     style="font-size:11.000000;font-family:Verdana"
+     y="282.42911"
+     x="1044.1436">
+    <tspan
+       id="tspan2390"
+       y="286.42911"
+       x="1044.1436">Chigwell</tspan>
+  </text>
+  <line
+     x1="1098.9175"
+     y1="313.15768"
+     x2="1102.9043"
+     y2="310.14011"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2392" />
+  <text
+     id="text2396"
+     style="font-size:11.000000;font-family:Verdana"
+     y="302.66046"
+     x="1107.0225">
+    <tspan
+       id="tspan2398"
+       y="306.66046"
+       x="1107.0225">Grange</tspan>
+    <tspan
+       id="tspan2400"
+       y="318.66046"
+       x="1107.0225">Hill</tspan>
+  </text>
+  <line
+     x1="1002.3808"
+     y1="300.71603"
+     x2="1004.2915"
+     y2="305.33655"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2404" />
+  <text
+     id="text2406"
+     style="font-size:11.000000;font-family:Verdana"
+     y="315.63315"
+     x="997.22607">
+    <tspan
+       id="tspan2408"
+       y="319.63315"
+       x="997.22607">Roding</tspan>
+    <tspan
+       id="tspan2410"
+       y="331.63315"
+       x="997.22607">Valley</tspan>
+  </text>
+  <line
+     x1="1081.9637"
+     y1="210.08188"
+     x2="1085.5466"
+     y2="213.56946"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2414" />
+  <text
+     id="text2416"
+     style="font-size:11.000000;font-family:Verdana"
+     y="221.48514"
+     x="1088.6545">
+    <tspan
+       id="tspan2418"
+       y="225.48514"
+       x="1088.6545">Debden</tspan>
+  </text>
+  <line
+     x1="1120.8577"
+     y1="126.47202"
+     x2="1125.5154"
+     y2="128.28999"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2422" />
+  <text
+     id="text2424"
+     style="font-size:11.000000;font-family:Verdana"
+     y="126.47202"
+     x="1129.8577">
+    <tspan
+       id="tspan2426"
+       y="130.47202"
+       x="1129.8577">Theydon</tspan>
+    <tspan
+       id="tspan2428"
+       y="142.47202"
+       x="1129.8577">Bois</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="667.90338"
+     x="321.06073"
+     id="Ealing Broadway"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2431"
+     style="font-size:11.000000;font-family:Verdana"
+     y="619.35095"
+     x="249.76239">
+    <tspan
+       id="tspan2433"
+       y="623.35095"
+       x="249.76239">Ealing</tspan>
+    <tspan
+       id="tspan2435"
+       y="635.35095"
+       x="249.76239">Broadway</tspan>
+  </text>
+  <use
+     xlink:href="#rail"
+     height="800.00000"
+     width="1200.0000"
+     y="675.90338"
+     x="361.06073"
+     id="use2437"
+     transform="translate(-74.43094,-60.70718)" />
+  <line
+     x1="354.54758"
+     y1="616.96777"
+     x2="356.08774"
+     y2="621.72467"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2441" />
+  <text
+     id="text2443"
+     style="font-size:11.000000;font-family:Verdana"
+     y="631.3324"
+     x="342.21057">
+    <tspan
+       id="tspan2445"
+       y="635.3324"
+       x="342.21057">West</tspan>
+    <tspan
+       id="tspan2447"
+       y="647.3324"
+       x="342.21057">Acton</tspan>
+  </text>
+  <line
+     x1="421.36536"
+     y1="620.80255"
+     x2="419.05405"
+     y2="625.23633"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2451" />
+  <text
+     id="text2453"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="632.95721"
+     x="407.18301">
+    <tspan
+       id="tspan2455"
+       style="font-family:Verdana"
+       y="636.95721"
+       x="407.18301">East</tspan>
+    <tspan
+       id="tspan2457"
+       style="font-family:Verdana"
+       y="648.95721"
+       x="407.18301">Acton</tspan>
+  </text>
+  <line
+     x1="396.83224"
+     y1="598.78009"
+     x2="398.55670"
+     y2="594.08691"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2459" />
+  <text
+     id="text2463"
+     style="font-size:11.000000;font-family:Verdana"
+     y="572.26074"
+     x="391.12506">
+    <tspan
+       id="tspan2465"
+       y="576.26074"
+       x="391.12506">North</tspan>
+    <tspan
+       id="tspan2467"
+       y="588.26074"
+       x="391.12506">Acton</tspan>
+  </text>
+  <line
+     x1="468.23752"
+     y1="636.11725"
+     x2="465.42566"
+     y2="640.25165"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2471" />
+  <text
+     id="text2473"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:end;writing-mode:lr-tb"
+     y="646.06201"
+     x="463.29276">
+    <tspan
+       id="tspan2475"
+       style="font-family:Verdana"
+       y="650.06201"
+       x="463.29276">White</tspan>
+    <tspan
+       id="tspan2477"
+       style="font-family:Verdana"
+       y="662.06201"
+       x="463.29276">City</tspan>
+  </text>
+  <line
+     x1="1142.0000"
+     y1="56.265533"
+     x2="1137.2124"
+     y2="54.823761"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2479" />
+  <line
+     x1="1142.0000"
+     y1="56.265533"
+     x2="1146.7876"
+     y2="57.707298"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2481" />
+  <text
+     id="text2483"
+     style="font-size:11.000000;font-family:Verdana"
+     y="43.270794"
+     x="1124.4031">
+    <tspan
+       id="tspan2485"
+       y="47.270794"
+       x="1124.4031">Epping</tspan>
+  </text>
+  <line
+     x1="1100.9121"
+     y1="345.71051"
+     x2="1105.9081"
+     y2="345.91022"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2489" />
+  <text
+     id="text2491"
+     style="font-size:11.000000;font-family:Verdana"
+     y="345.15802"
+     x="1111.2271">
+    <tspan
+       id="tspan2493"
+       y="349.15802"
+       x="1111.2271">Hainault</tspan>
+  </text>
+  <line
+     x1="1047.0590"
+     y1="430.28210"
+     x2="1046.9327"
+     y2="435.28052"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2497" />
+  <text
+     id="text2499"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="444.09427"
+     x="1048.8766">
+    <tspan
+       id="tspan2501"
+       style="font-family:Verdana"
+       y="448.09427"
+       x="1048.8766">Gants</tspan>
+    <tspan
+       id="tspan2503"
+       style="font-family:Verdana"
+       y="460.09427"
+       x="1048.8766">Hill</tspan>
+  </text>
+  <line
+     x1="1005.3726"
+     y1="430.91516"
+     x2="1005.5856"
+     y2="425.91971"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2505" />
+  <text
+     id="text2509"
+     style="font-size:11.000000;font-family:Verdana"
+     y="415.9537"
+     x="980.39435">
+    <tspan
+       id="tspan2511"
+       y="419.9537"
+       x="980.39435">Redbridge</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="581.42053"
+     x="233.49951"
+     id="Greenford"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2514"
+     style="font-size:11.000000;font-family:Verdana"
+     y="527.22156"
+     x="217.62671">
+    <tspan
+       id="tspan2516"
+       y="531.22156"
+       x="217.62671">Greenford</tspan>
+  </text>
+  <use
+     xlink:href="#rail"
+     height="800.00000"
+     width="1200.0000"
+     y="577.42053"
+     x="273.49951"
+     id="use2518"
+     transform="translate(3.127190,-55.09404)" />
+  <line
+     x1="179.42519"
+     y1="520.27106"
+     x2="177.41508"
+     y2="524.84924"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2522" />
+  <text
+     id="text2524"
+     style="font-size:11.000000;font-family:Verdana"
+     y="534.2821"
+     x="141.54086">
+    <tspan
+       id="tspan2526"
+       y="538.2821"
+       x="141.54086">Northolt</tspan>
+  </text>
+  <line
+     x1="270.17770"
+     y1="557.62036"
+     x2="268.44193"
+     y2="562.30939"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2530" />
+  <text
+     id="text2532"
+     style="font-size:11.000000;font-family:Verdana"
+     y="571.2226"
+     x="236.16113">
+    <tspan
+       id="tspan2534"
+       y="575.2226"
+       x="236.16113">Perivale</tspan>
+  </text>
+  <line
+     x1="329.81503"
+     y1="578.03589"
+     x2="331.36035"
+     y2="573.28070"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2536" />
+  <text
+     id="text2540"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="551.51654"
+     x="333.44489">
+    <tspan
+       id="tspan2542"
+       style="font-family:Verdana"
+       y="555.51654"
+       x="333.44489">Hanger</tspan>
+    <tspan
+       id="tspan2544"
+       style="font-family:Verdana"
+       y="567.51654"
+       x="333.44489">Lane</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="663.76428"
+     x="661.53217"
+     id="Tottenham Court Road"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2547"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="633.91901"
+     x="670.47693">
+    <tspan
+       id="tspan2549"
+       style="font-family:Verdana"
+       y="637.91901"
+       x="670.47693">Tottenham</tspan>
+    <tspan
+       id="tspan2551"
+       style="font-family:Verdana"
+       y="649.91901"
+       x="670.47693">Court Road</tspan>
+    <tspan
+       id="tspan2553"
+       style="font-family:Verdana"
+       y="661.91901"
+       x="670.47693" />
+  </text>
+  <line
+     x1="503.94016"
+     y1="650.48236"
+     x2="502.29257"
+     y2="645.76160"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2555" />
+  <text
+     id="text2559"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:end;writing-mode:lr-tb"
+     y="625.06799"
+     x="503.96774">
+    <tspan
+       id="tspan2561"
+       style="font-family:Verdana"
+       y="629.06799"
+       x="503.96774">Holland</tspan>
+    <tspan
+       id="tspan2563"
+       style="font-family:Verdana"
+       y="641.06799"
+       x="503.96774">Park</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="686.41980"
+     x="530.48956"
+     id="Notting Hill Gate"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2566"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="658.78448"
+     x="520.70502">
+    <tspan
+       id="tspan2568"
+       style="font-family:Verdana"
+       y="662.78448"
+       x="520.70502">Notting</tspan>
+    <tspan
+       id="tspan2570"
+       style="font-family:Verdana"
+       y="674.78448"
+       x="520.70502">Hill Gate</tspan>
+  </text>
+  <line
+     x1="478.60922"
+     y1="659.73450"
+     x2="476.74286"
+     y2="664.37305"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2574" />
+  <text
+     id="text2576"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="674.09912"
+     x="461.11197">
+    <tspan
+       id="tspan2578"
+       style="font-family:Verdana"
+       y="678.09912"
+       x="461.11197">Shepherd's</tspan>
+    <tspan
+       id="tspan2580"
+       style="font-family:Verdana"
+       y="690.09912"
+       x="461.11197">Bush</tspan>
+  </text>
+  <line
+     x1="564.57477"
+     y1="636.43378"
+     x2="565.36188"
+     y2="641.37140"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2584" />
+  <text
+     id="text2586"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="649.35089"
+     x="567.93939">
+    <tspan
+       id="tspan2588"
+       style="font-family:Verdana"
+       y="653.35089"
+       x="567.93939">Lancaster</tspan>
+    <tspan
+       id="tspan2590"
+       style="font-family:Verdana"
+       y="665.35089"
+       x="567.93939">Gate</tspan>
+  </text>
+  <line
+     x1="540.44061"
+     y1="640.26849"
+     x2="539.50842"
+     y2="635.35620"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2592" />
+  <text
+     id="text2596"
+     style="font-size:11.000000;font-family:Verdana"
+     y="625.35138"
+     x="509.52905">
+    <tspan
+       id="tspan2598"
+       y="629.35138"
+       x="509.52905">Queensway</tspan>
+  </text>
+  <line
+     x1="904.24841"
+     y1="493.79297"
+     x2="899.57336"
+     y2="492.01978"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2600" />
+  <text
+     id="text2604"
+     style="font-size:11.000000;font-family:Verdana"
+     y="487.22305"
+     x="856.83032">
+    <tspan
+       id="tspan2606"
+       y="491.22305"
+       x="856.83032">Leyton</tspan>
+  </text>
+  <line
+     x1="931.28625"
+     y1="456.16742"
+     x2="927.28107"
+     y2="453.17441"
+     style="stroke:#f15b2e;stroke-width:4.5;stroke-linecap:square"
+     id="line2608" />
+  <text
+     id="text2612"
+     style="font-size:11.000000;font-family:Verdana"
+     y="445.95862"
+     x="856.05402">
+    <tspan
+       id="tspan2614"
+       y="449.95862"
+       x="856.05402">Leytonstone</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="583.66046"
+     x="914.44244"
+     id="Stratford"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2617"
+     style="font-size:11.000000;font-family:Verdana"
+     y="541.66046"
+     x="913.44244">
+    <tspan
+       id="tspan2619"
+       y="545.66046"
+       x="913.44244">Stratford</tspan>
+  </text>
+  <use
+     xlink:href="#rail"
+     height="800.00000"
+     width="1200.0000"
+     y="579.66046"
+     x="954.44244"
+     id="use2621"
+     transform="translate(12.00000,-42.00000)" />
+  <line
+     x1="957.90210"
+     y1="416.56223"
+     x2="953.45288"
+     y2="414.28088"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2623" />
+  <text
+     id="text2627"
+     style="font-size:11.000000;font-family:Verdana"
+     y="409.37991"
+     x="878.16174">
+    <tspan
+       id="tspan2629"
+       y="413.37991"
+       x="878.16174">Snaresbrook</tspan>
+  </text>
+  <line
+     x1="972.26294"
+     y1="427.09256"
+     x2="973.89423"
+     y2="431.81897"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2633" />
+  <text
+     id="text2635"
+     style="font-size:11.000000;font-family:Verdana"
+     y="442.00967"
+     x="962.68835">
+    <tspan
+       id="tspan2637"
+       y="446.00967"
+       x="962.68835">Wanstead</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="534.83124"
+     x="127.38895"
+     id="South Ruislip"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2640"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="469.20731"
+     x="141.50502">
+    <tspan
+       id="tspan2642"
+       style="font-family:Verdana"
+       y="473.20731"
+       x="141.50502">South</tspan>
+    <tspan
+       id="tspan2644"
+       style="font-family:Verdana"
+       y="485.20731"
+       x="141.50502">Ruislip</tspan>
+  </text>
+  <use
+     xlink:href="#rail"
+     height="800.00000"
+     width="1200.0000"
+     y="542.83124"
+     x="167.38895"
+     id="use2646"
+     transform="translate(-34.80071,-91.45822)" />
+  <line
+     x1="96.451500"
+     y1="481.02264"
+     x2="94.131927"
+     y2="485.45203"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2650" />
+  <text
+     id="text2652"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="494.12769"
+     x="82.147781">
+    <tspan
+       id="tspan2654"
+       style="font-family:Verdana"
+       y="498.12769"
+       x="82.147781">Ruislip</tspan>
+    <tspan
+       id="tspan2656"
+       style="font-family:Verdana"
+       y="510.12769"
+       x="82.147781">Gardens</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="800.00000"
+     width="1200.0000"
+     y="494.30457"
+     x="50.000000"
+     id="West Ruislip"
+     transform="translate(-8.000000,-42.00000)" />
+  <text
+     id="text2659"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:middle;writing-mode:lr-tb"
+     y="428.54767"
+     x="41.441498">
+    <tspan
+       id="tspan2661"
+       style="font-family:Verdana"
+       y="432.54767"
+       x="41.441498">West</tspan>
+    <tspan
+       id="tspan2663"
+       style="font-family:Verdana"
+       y="444.54767"
+       x="41.441498">Ruislip</tspan>
+  </text>
+  <use
+     xlink:href="#rail"
+     height="800.00000"
+     width="1200.0000"
+     y="502.30457"
+     x="90.000000"
+     id="use2665"
+     transform="translate(-27.35964,-66.30939)" />
+  <line
+     x1="969.66998"
+     y1="381.76941"
+     x2="964.87848"
+     y2="380.34061"
+     style="stroke:#f15b2e;stroke-width:4.5000000;stroke-linecap:square"
+     id="line2667" />
+  <text
+     id="text2671"
+     style="font-size:11.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;text-anchor:end;writing-mode:lr-tb"
+     y="370.16721"
+     x="960.64789">
+    <tspan
+       id="tspan2673"
+       style="font-family:Verdana"
+       y="374.16721"
+       x="960.64789">South</tspan>
+    <tspan
+       id="tspan2675"
+       style="font-family:Verdana"
+       y="386.16721"
+       x="960.64789">Woodford</tspan>
+  </text>
+</svg>

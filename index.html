@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>The Tube Map - Made in SVG and RaphaelJS</title>
+	<meta name="generator" content="TextMate http://macromates.com/">
+	<meta name="author" content="Ben Barnett">
+	<!-- Date: 2010-08-02 -->
+	
+	<!-- include CSS reset and basic content formatting (from Yahoo CSS library) -->
+    <link type="text/css" rel="stylesheet" href="styles/yui/reset-min.css">
+    <link type="text/css" rel="stylesheet" href="styles/yui/fonts-min.css">
+    <link type="text/css" rel="stylesheet" href="styles/yui/base-min.css">
+
+<link type="text/css" rel="stylesheet" href="styles/styles.css">
+
+</head>
+<body>
+	<div id="mask">
+		<div id="wrapper">
+			<div id="map"></div>
+		</div>
+	</div>
+	
+	<div id="copyleft">
+		This is in no way associated with TFL.<br>
+		Made by <a href="http://benbarnett.net" rel="me">Ben Barnett</a> with <a href="http://raphaeljs.com/">RaphaelJS</a><br><br>
+		<a href="https://twitter.com/benpbarnett" rel="me" class="twitter-follow-button" data-show-count="false">Follow @benpbarnett</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</div>
+
+	<script type="text/javascript" charset="utf-8" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
+	<script type="text/javascript" charset="utf-8" src="scripts/contrib/raphael-min.js"></script>
+	
+	<script type="text/javascript" charset="utf-8" src="scripts/src/bb.tl.lines.js"></script>
+	<script type="text/javascript" charset="utf-8" src="scripts/src/bb.tl.stations.js"></script>
+	<script type="text/javascript" charset="utf-8" src="scripts/src/bb.tl.js"></script>
+	
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-8825585-11']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</body>
+</html>

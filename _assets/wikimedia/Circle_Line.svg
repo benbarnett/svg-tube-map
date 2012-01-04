@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="61.93"
+   inkscape:export-xdpi="61.93"
+   inkscape:version="0.46"
+   sodipodi:version="0.32"
+   version="1.0"
+   x="0.00000000"
+   y="0.00000000"
+   height="570"
+   width="1100"
+   id="svg2"
+   sodipodi:docname="Circle_Line.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docbase="C:\Users\David &amp; Lisa\Desktop">
+  <metadata
+     id="metadata3589">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg2"
+     inkscape:window-y="-8"
+     inkscape:window-x="1272"
+     inkscape:cy="364.79781"
+     inkscape:cx="723.50423"
+     inkscape:zoom="0.8500164"
+     inkscape:window-height="1000"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false" />
+  <defs
+     id="defs3">
+    <g
+       id="rail"
+       transform="matrix(0.2,0,0,0.2,-37.2,-92)">
+      <rect
+         width="90.994476"
+         height="24.131897"
+         x="186.32202"
+         y="477.49323"
+         style="fill:#808080;stroke:none"
+         id="body" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,481.526)"
+         style="fill:#808080"
+         id="boiler"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(201.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="wheel1"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="wheel2"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(261.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="wheel3"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <rect
+         width="14.142136"
+         height="23.334524"
+         x="255.97266"
+         y="461.22095"
+         style="fill:#808080"
+         id="chimney" />
+      <rect
+         width="20"
+         height="20"
+         x="188.32202"
+         y="462.04932"
+         style="fill:none;stroke:#808080;stroke-width:4"
+         id="cabin" />
+    </g>
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient8578"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,-97.62679,198.9569)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient8575"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,461.407,12.8183)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient8572"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,629.7131,436.5681)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient8569"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,931.2593,-38.02173)" />
+    <g
+       transform="matrix(0.2,0,0,0.2,-37.2,-92)"
+       id="g7403">
+      <rect
+         width="90.994476"
+         height="24.131897"
+         x="186.32202"
+         y="477.49323"
+         style="fill:#808080;stroke:none"
+         id="rect7405" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,481.526)"
+         style="fill:#808080"
+         id="circle7407"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(201.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle7409"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle7411"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(261.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle7413"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <rect
+         width="14.142136"
+         height="23.334524"
+         x="255.97266"
+         y="461.22095"
+         style="fill:#808080"
+         id="rect7415" />
+      <rect
+         width="20"
+         height="20"
+         x="188.32202"
+         y="462.04932"
+         style="fill:none;stroke:#808080;stroke-width:4"
+         id="rect7417" />
+    </g>
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient1993"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,-179.6987,-12.11283)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient1991"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,59.3036,-59.44883)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient1989"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,88.2949,-75.71183)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient1987"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,373.966,29.64617)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient7133"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.042644,0.9591)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient7129"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.042644,0.9591)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient7125"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.042644,0.9591)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient7113"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.042644,0.9591)" />
+    <g
+       transform="matrix(0.2,0,0,0.2,-37.2,-92)"
+       id="g2482">
+      <rect
+         width="90.994476"
+         height="24.131897"
+         x="186.32202"
+         y="477.49323"
+         style="fill:#808080;stroke:none"
+         id="rect2484" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,481.526)"
+         style="fill:#808080"
+         id="circle2486"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(201.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle2488"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle2490"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(261.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle2492"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <rect
+         width="14.142136"
+         height="23.334524"
+         x="255.97266"
+         y="461.22095"
+         style="fill:#808080"
+         id="rect2494" />
+      <rect
+         width="20"
+         height="20"
+         x="188.32202"
+         y="462.04932"
+         style="fill:none;stroke:#808080;stroke-width:4"
+         id="rect2496" />
+    </g>
+    <linearGradient
+       id="linearGradient7107">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1.0000000;"
+         offset="0.00000000"
+         id="stop7109" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop7111" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7115">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0.66326529;"
+         offset="0.00000000"
+         id="stop7117" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0.66326529;"
+         offset="0.50000000"
+         id="stop7121" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0.66326529;"
+         offset="1.0000000"
+         id="stop7119" />
+    </linearGradient>
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient2541"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,656.0617,86.14192)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient2544"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,370.3906,-19.21608)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient2547"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,341.3993,-2.95308)" />
+    <radialGradient
+       cx="319.7312"
+       cy="209.05353"
+       r="28.842436"
+       fx="319.7312"
+       fy="209.05353"
+       id="radialGradient2550"
+       xlink:href="#linearGradient7115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.612817,0,0,0.563714,102.397,44.38292)" />
+    <g
+       transform="matrix(0.2,0,0,0.2,-37.2,-92)"
+       id="g11566">
+      <rect
+         width="90.994476"
+         height="24.131897"
+         x="186.32202"
+         y="477.49323"
+         style="fill:#808080;stroke:none"
+         id="rect11568" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,481.526)"
+         style="fill:#808080"
+         id="circle11570"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(201.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle11572"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle11574"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(261.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle11576"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <rect
+         width="14.142136"
+         height="23.334524"
+         x="255.97266"
+         y="461.22095"
+         style="fill:#808080"
+         id="rect11578" />
+      <rect
+         width="20"
+         height="20"
+         x="188.32202"
+         y="462.04932"
+         style="fill:none;stroke:#808080;stroke-width:4"
+         id="rect11580" />
+    </g>
+    <g
+       transform="matrix(0.2,0,0,0.2,-37.2,-92)"
+       id="g2849">
+      <rect
+         id="rect2851"
+         style="fill:#808080;stroke:none"
+         y="477.49323"
+         x="186.32202"
+         height="24.131897"
+         width="90.994476" />
+      <circle
+         id="circle2853"
+         style="fill:#808080"
+         transform="translate(231.8686,481.526)"
+         r="10"
+         cy="0"
+         cx="0"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         id="circle2855"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         transform="translate(201.8686,503.526)"
+         r="10"
+         cy="0"
+         cx="0"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         id="circle2857"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         transform="translate(231.8686,503.526)"
+         r="10"
+         cy="0"
+         cx="0"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         id="circle2859"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         transform="translate(261.8686,503.526)"
+         r="10"
+         cy="0"
+         cx="0"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <rect
+         id="rect2861"
+         style="fill:#808080"
+         y="461.22095"
+         x="255.97266"
+         height="23.334524"
+         width="14.142136" />
+      <rect
+         id="rect2863"
+         style="fill:none;stroke:#808080;stroke-width:4"
+         y="462.04932"
+         x="188.32202"
+         height="20"
+         width="20" />
+    </g>
+    <g
+       id="g2863"
+       transform="matrix(0.2,0,0,0.2,-37.2,-92)">
+      <rect
+         width="90.994476"
+         height="24.131897"
+         x="186.32202"
+         y="477.49323"
+         style="fill:#808080;stroke:none"
+         id="rect2865" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,481.526)"
+         style="fill:#808080"
+         id="circle2867"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(201.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle2869"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle2871"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(261.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle2873"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="10"
+         sodipodi:ry="10" />
+      <rect
+         width="14.142136"
+         height="23.334524"
+         x="255.97266"
+         y="461.22095"
+         style="fill:#808080"
+         id="rect2875" />
+      <rect
+         width="20"
+         height="20"
+         x="188.32202"
+         y="462.04932"
+         style="fill:none;stroke:#808080;stroke-width:4"
+         id="rect2877" />
+    </g>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3997" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3909" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3855" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3794" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3730" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3638" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2773" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2723" />
+    <g
+       transform="matrix(0.2,0,0,0.2,-37.2,-92)"
+       id="g1591">
+      <rect
+         id="rect1593"
+         style="fill:#808080;stroke:none"
+         y="477.49323"
+         x="186.32202"
+         height="24.131897"
+         width="90.994476" />
+      <circle
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         id="circle1595"
+         style="fill:#808080"
+         transform="translate(231.8686,481.526)"
+         r="10"
+         cy="0"
+         cx="0" />
+      <circle
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         id="circle1597"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         transform="translate(201.8686,503.526)"
+         r="10"
+         cy="0"
+         cx="0" />
+      <circle
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         id="circle1599"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         transform="translate(231.8686,503.526)"
+         r="10"
+         cy="0"
+         cx="0" />
+      <circle
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         id="circle1601"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         transform="translate(261.8686,503.526)"
+         r="10"
+         cy="0"
+         cx="0" />
+      <rect
+         id="rect1603"
+         style="fill:#808080"
+         y="461.22095"
+         x="255.97266"
+         height="23.334524"
+         width="14.142136" />
+      <rect
+         id="rect1605"
+         style="fill:none;stroke:#808080;stroke-width:4"
+         y="462.04932"
+         x="188.32202"
+         height="20"
+         width="20" />
+    </g>
+    <g
+       transform="matrix(0.2,0,0,0.2,-37.2,-92)"
+       id="g6214">
+      <rect
+         width="90.994476"
+         height="24.131897"
+         x="186.32202"
+         y="477.49323"
+         style="fill:#808080;stroke:none"
+         id="rect6216" />
+      <circle
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,481.526)"
+         style="fill:#808080"
+         id="circle6218" />
+      <circle
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(201.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle6220" />
+      <circle
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(231.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle6222" />
+      <circle
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         cx="0"
+         cy="0"
+         r="10"
+         transform="translate(261.8686,503.526)"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3"
+         id="circle6224" />
+      <rect
+         width="14.142136"
+         height="23.334524"
+         x="255.97266"
+         y="461.22095"
+         style="fill:#808080"
+         id="rect6226" />
+      <rect
+         width="20"
+         height="20"
+         x="188.32202"
+         y="462.04932"
+         style="fill:none;stroke:#808080;stroke-width:4"
+         id="rect6228" />
+    </g>
+    <inkscape:perspective
+       id="perspective286"
+       inkscape:persp3d-origin="400 : 193.33333 : 1"
+       inkscape:vp_z="800 : 290 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 290 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <defs
+     id="defs13">
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.5"
+       r="4"
+       cy="0"
+       cx="0"
+       id="intersection"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="4"
+       sodipodi:ry="4" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="zones"
+     transform="translate(-68.163252,-210.38803)" />
+  <path
+     sodipodi:nodetypes="czzzzzzzz"
+     d="M 451.57708,184.79688 C 432.03648,197.02808 433.34908,222.05128 413.87978,222.39768 C 394.41038,222.74398 364.06928,207.57418 336.88238,198.05878 C 309.69538,188.54338 277.51708,174.62028 253.40998,177.67978 C 229.30278,180.73918 209.33738,204.35268 192.23938,216.41538 C 175.14138,228.47818 165.60128,233.18198 150.72308,250.38808 C 135.84488,267.59418 100.05388,316.61498 91.365275,333.32478 C 82.676675,350.03458 88.691675,356.59188 90.090975,374.08278 C 91.490275,391.57368 96.887675,429.82678 100.28608,457.69878"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:9"
+     id="H&amp;C Line 1" />
+  <text
+     x="105.87183"
+     y="446.69867"
+     style="font-size:11px;font-family:Verdana"
+     id="text2404">
+    <tspan
+       x="105.87183"
+       y="450.69867"
+       id="tspan2406">Hammersmith</tspan>
+  </text>
+  <text
+     x="78.706306"
+     y="369.133"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:end;font-family:Verdana"
+     id="text2665">
+    <tspan
+       x="78.706306"
+       y="373.133"
+       style="font-family:Verdana"
+       id="tspan2667">Goldhawk</tspan>
+    <tspan
+       x="78.706306"
+       y="385.133"
+       style="font-family:Verdana"
+       id="tspan2669">Road</tspan>
+  </text>
+  <text
+     sodipodi:linespacing="100%"
+     x="80.938972"
+     y="322.31903"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;writing-mode:lr-tb;text-anchor:end;font-family:Verdana"
+     id="text2671">
+    <tspan
+       x="80.938972"
+       y="326.31903"
+       style="font-family:Verdana"
+       id="tspan2673">Shepherd's</tspan>
+    <tspan
+       x="80.938972"
+       y="338.31903"
+       style="font-family:Verdana"
+       id="tspan2675">Bush Market</tspan>
+  </text>
+  <text
+     x="111.62428"
+     y="233.71989"
+     style="font-size:11px;font-family:Verdana"
+     id="text2683">
+    <tspan
+       x="111.62428"
+       y="237.71989"
+       id="tspan2685">Latimer</tspan>
+    <tspan
+       x="111.62428"
+       y="249.71989"
+       id="tspan2687">Road</tspan>
+  </text>
+  <path
+     d="M 877.85928,269.42408 C 897.18748,268.74998 922.35668,266.20908 935.84398,267.40168"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5"
+     id="path15835" />
+  <path
+     d="M 935.84398,267.40168 C 949.33118,268.59438 950.60558,274.20118 958.78288,276.58008"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15837" />
+  <path
+     d="M 958.78288,276.58008 C 966.96022,278.95888 970.25242,279.12738 984.90782,281.67478"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15839" />
+  <path
+     d="M 984.90782,281.67478 C 999.56332,284.22218 1035.246,297.81468 1046.7155,291.86428"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15841" />
+  <path
+     d="M 1046.7155,291.86428 C 1058.1849,285.91398 1059.7779,259.56518 1053.7246,245.97268"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15843" />
+  <path
+     d="M 1053.7246,245.97268 C 1047.6713,232.38018 1024.3075,217.61448 1010.3955,210.30948"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15845" />
+  <path
+     d="M 1010.3955,210.30948 C 996.48352,203.00438 986.81942,206.56298 970.25242,202.14228"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15847" />
+  <path
+     d="M 970.25242,202.14228 C 953.68528,197.72168 928.72858,186.67658 910.99338,183.78568"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15849" />
+  <path
+     d="M 910.99338,183.78568 C 893.25818,180.89478 891.34658,202.46638 863.84108,184.79688"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15851" />
+  <path
+     d="M 863.84108,184.79688 C 836.33558,167.12728 778.45718,87.452184 745.96038,77.768284"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15853" />
+  <path
+     d="M 745.96038,77.768284 C 713.46348,68.084384 690.20588,114.79919 668.85988,126.69339"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15855" />
+  <path
+     d="M 668.85988,126.69339 C 647.51398,138.58769 640.39858,143.35179 617.88448,149.13359"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15857" />
+  <path
+     d="M 617.88448,149.13359 C 595.37028,154.91548 561.49288,155.44048 533.77498,161.38438"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15859" />
+  <path
+     d="M 533.77498,161.38438 C 506.05708,167.32818 471.11768,172.56558 451.57708,184.79688"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15861" />
+  <path
+     d="M 451.57708,184.79688 C 432.03648,197.02808 435.54098,220.83598 416.53138,234.77198"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15863" />
+  <path
+     d="M 416.53138,234.77198 C 397.52178,248.70798 360.03358,258.21688 337.51948,268.41288"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15865" />
+  <path
+     d="M 337.51948,268.41288 C 315.00528,278.60888 286.33158,276.91708 281.44648,295.94788"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15867" />
+  <path
+     d="M 281.44648,295.94788 C 276.56128,314.97858 293.55318,357.27928 308.20858,382.59738"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15869" />
+  <path
+     d="M 308.20858,382.59738 C 322.86408,407.91558 342.51998,444.29968 369.37918,447.85688"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15871" />
+  <path
+     d="M 369.37918,447.85688 C 389.23838,449.41398 407.32718,452.37538 427.36368,451.94038"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15873" />
+  <path
+     d="M 427.36368,451.94038 C 455.40018,455.50548 506.69428,473.32408 537.59818,469.24698"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15875" />
+  <path
+     d="M 537.59818,469.24698 C 568.50208,465.16988 588.36118,439.37208 612.78688,427.47788"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15877" />
+  <path
+     d="M 612.78688,427.47788 C 637.21268,415.58368 663.65628,405.53028 684.15268,397.88168"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15879" />
+  <path
+     d="M 684.15268,397.88168 C 704.64898,390.23308 723.87088,395.17868 735.76518,381.58628"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15881" />
+  <path
+     d="M 735.76518,381.58628 C 747.65948,367.99378 743.51778,333.49078 755.51828,316.32688"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15883" />
+  <path
+     d="M 755.51828,316.32688 C 767.51868,299.16288 787.37788,286.41948 807.76808,278.60238"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
+     id="path15885" />
+  <path
+     d="M 807.76808,278.60238 C 828.15828,270.78528 854.49558,272.48348 877.85928,269.42408"
+     style="fill:none;stroke:#ffe02b;stroke-width:4.5"
+     id="path15887" />
+  <use
+     transform="translate(174.71568,14.158884)"
+     id="Hammersmith"
+     x="-74.429649"
+     y="443.53992"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Baker Street"
+     x="358.86166"
+     y="147.88911"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="527.39624"
+     y="133.79851"
+     style="font-size:11px;font-family:Verdana"
+     id="text17518">
+    <tspan
+       x="527.39624"
+       y="137.79851"
+       id="tspan17520">Baker</tspan>
+    <tspan
+       x="527.39624"
+       y="149.79851"
+       id="tspan17522">Street</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495184)"
+     id="Embankment"
+     x="580.60498"
+     y="302.8316"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="764.36011"
+     y="312.82684"
+     style="font-size:11px;font-family:Verdana"
+     id="text17547">
+    <tspan
+       x="764.36011"
+       y="316.82684"
+       id="tspan17549">Embankment</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Paddington"
+     x="241.61812"
+     y="221.27679"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="432.08057"
+     y="227.21843"
+     style="font-size:11px;font-family:Verdana"
+     id="text17565">
+    <tspan
+       x="432.08057"
+       y="231.21843"
+       id="tspan17567">Paddington</tspan>
+  </text>
+  <use
+     transform="translate(214.54638,4.6099843)"
+     id="use17569"
+     x="281.61813"
+     y="217.27679"
+     width="1000"
+     height="570"
+     xlink:href="#rail" />
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Liverpool Street"
+     x="835.48224"
+     y="196.81424"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="980.59229"
+     y="179.85954"
+     style="font-size:11px;font-family:Verdana"
+     id="text17692">
+    <tspan
+       x="980.59229"
+       y="183.85954"
+       id="tspan17694">Liverpool</tspan>
+    <tspan
+       x="980.59229"
+       y="195.85954"
+       id="tspan17696">Street</tspan>
+  </text>
+  <use
+     transform="translate(121.54938,-41.393816)"
+     id="use17698"
+     x="875.48224"
+     y="204.81424"
+     width="1000"
+     height="570"
+     xlink:href="#rail" />
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Notting Hill Gate"
+     x="106.53315"
+     y="282.45264"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="275.84766"
+     y="275.44769"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:end;font-family:Verdana"
+     id="text17883">
+    <tspan
+       x="275.84766"
+       y="279.44769"
+       style="font-family:Verdana"
+       id="tspan17885">Notting</tspan>
+    <tspan
+       x="275.84766"
+       y="291.44769"
+       style="font-family:Verdana"
+       id="tspan17887">Hill Gate</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Aldgate"
+     x="878.8114"
+     y="232.47745"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="1004.4821"
+     y="246.69011"
+     style="font-size:11px;font-family:Verdana"
+     id="text17959">
+    <tspan
+       x="1004.4821"
+       y="250.69011"
+       id="tspan17961">Aldgate</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Tower Hill"
+     x="871.80225"
+     y="278.36905"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="1056.7156"
+     y="309.57391"
+     style="font-size:11px;font-family:Verdana"
+     id="text17964">
+    <tspan
+       x="1056.7156"
+       y="313.57391"
+       id="tspan17966">Tower</tspan>
+    <tspan
+       x="1056.7156"
+       y="325.57391"
+       id="tspan17968">Hill</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Edgware Road (C)"
+     x="276.66376"
+     y="171.30162"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="413.57715"
+     y="170.2968"
+     style="font-size:11px;font-family:Verdana"
+     id="text17971">
+    <tspan
+       x="413.57715"
+       y="174.2968"
+       id="tspan17973">Edgware</tspan>
+    <tspan
+       x="413.57715"
+       y="186.2968"
+       id="tspan17975">Road</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Great Portland Street"
+     x="442.97116"
+     y="135.6384"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="622.2478"
+     y="115.40518"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:end;font-family:Verdana"
+     id="text17980">
+    <tspan
+       x="622.2478"
+       y="119.40518"
+       style="font-family:Verdana"
+       id="tspan17982">Great</tspan>
+    <tspan
+       x="622.2478"
+       y="131.4052"
+       style="font-family:Verdana"
+       id="tspan17984">Portland</tspan>
+    <tspan
+       x="622.2478"
+       y="143.4052"
+       style="font-family:Verdana"
+       id="tspan17986">Street</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Barbican"
+     x="736.08008"
+     y="170.29044"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="916.99341"
+     y="177.28557"
+     style="font-size:11px;font-family:Verdana"
+     id="text17989">
+    <tspan
+       x="916.99341"
+       y="181.28557"
+       id="tspan17991">Barbican</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Farringdon"
+     x="688.9278"
+     y="171.30162"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="853.84106"
+     y="167.2968"
+     style="font-size:11px;font-family:Verdana"
+     id="text17994">
+    <tspan
+       x="853.84106"
+       y="171.2968"
+       id="tspan17996">Farringdon</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Moorgate"
+     x="795.33905"
+     y="188.64708"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="913.75244"
+     y="209.64226"
+     style="font-size:11px;font-family:Verdana"
+     id="text18001">
+    <tspan
+       x="913.75244"
+       y="213.64226"
+       id="tspan18003">Moorgate</tspan>
+  </text>
+  <use
+     transform="translate(55.913274,17.995284)"
+     id="use18005"
+     x="835.33905"
+     y="184.64708"
+     width="1000"
+     height="570"
+     xlink:href="#rail" />
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Bayswater"
+     x="162.60616"
+     y="254.91766"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="285.01953"
+     y="253.41277"
+     style="font-size:11px;font-family:Verdana"
+     id="text18008">
+    <tspan
+       x="285.01953"
+       y="257.41278"
+       id="tspan18010">Bayswater</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Blackfriars"
+     x="702.94604"
+     y="255.92883"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="832.35938"
+     y="257.92401"
+     style="font-size:11px;font-family:Verdana"
+     id="text18013">
+    <tspan
+       x="832.35938"
+       y="261.92401"
+       id="tspan18015">Blackfriars</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Mansion House"
+     x="760.93066"
+     y="253.90649"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="891.34399"
+     y="275.90155"
+     style="font-size:11px;font-family:Verdana"
+     id="text18018">
+    <tspan
+       x="891.34399"
+       y="279.90155"
+       id="tspan18020">Mansion</tspan>
+    <tspan
+       x="891.34399"
+       y="291.90155"
+       id="tspan18022">House</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Temple"
+     x="632.8548"
+     y="265.10715"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="809.26807"
+     y="288.60223"
+     style="font-size:11px;font-family:Verdana"
+     id="text18025">
+    <tspan
+       x="809.26807"
+       y="292.60223"
+       id="tspan18027">Temple</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Cannon Street"
+     x="783.86957"
+     y="263.08481"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="952.44116"
+     y="286.65253"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:middle;font-family:Verdana"
+     id="text18030">
+    <tspan
+       x="952.44116"
+       y="290.65253"
+       style="font-family:Verdana"
+       id="tspan18032">Cannon</tspan>
+    <tspan
+       x="952.44116"
+       y="302.65253"
+       style="font-family:Verdana"
+       id="tspan18034">Street</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Monument"
+     x="809.99451"
+     y="268.17957"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Westminster"
+     x="560.85193"
+     y="368.09103"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="735.10693"
+     y="392.42792"
+     style="font-size:11px;font-family:Verdana"
+     id="text18042">
+    <tspan
+       x="735.10693"
+       y="396.42792"
+       id="tspan18044">Westminster</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Euston Square"
+     x="493.94662"
+     y="113.19818"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="680.68872"
+     y="128.25163"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:start;font-family:Verdana"
+     id="text18047">
+    <tspan
+       x="680.68872"
+       y="128.25163"
+       id="tspan1836">Euston</tspan>
+    <tspan
+       x="680.68872"
+       y="139.25163"
+       id="tspan1838">Square</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="King's Cross St. Pancras"
+     x="571.04706"
+     y="64.273064"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="676.96021"
+     y="53.768234"
+     style="font-size:11px;font-family:Verdana"
+     id="text18054">
+    <tspan
+       x="676.96021"
+       y="57.768234"
+       id="tspan18056">King's Cross</tspan>
+    <tspan
+       x="676.96021"
+       y="69.768227"
+       id="tspan18058">St. Pancras</tspan>
+  </text>
+  <use
+     transform="translate(75.413275,-0.5048157)"
+     id="use18060"
+     x="611.04706"
+     y="72.273064"
+     width="1000"
+     height="570"
+     xlink:href="#rail" />
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Gloucester Road"
+     x="194.46588"
+     y="434.3616"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="367.62793"
+     y="459.58905"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:middle;font-family:Verdana"
+     id="text18063">
+    <tspan
+       x="367.62793"
+       y="463.58905"
+       style="font-family:Verdana"
+       id="tspan18065">Gloucester</tspan>
+    <tspan
+       x="367.62793"
+       y="475.58905"
+       style="font-family:Verdana"
+       id="tspan18067">Road</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="High Street Kensington"
+     x="133.29533"
+     y="369.1022"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="314.56226"
+     y="371.86517"
+     style="font-size:11px;font-family:Verdana"
+     id="text18070">
+    <tspan
+       x="314.56226"
+       y="375.86517"
+       id="tspan18072">High Street</tspan>
+    <tspan
+       x="314.56226"
+       y="387.86517"
+       id="tspan18074">Kensington</tspan>
+    <tspan
+       x="314.56226"
+       y="399.86517"
+       id="tspan18076" />
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="South Kensington"
+     x="252.45039"
+     y="438.44519"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="427.82397"
+     y="463.02606"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:middle;font-family:Verdana"
+     id="text18079">
+    <tspan
+       x="427.82397"
+       y="467.02606"
+       style="font-family:Verdana"
+       id="tspan18081">South</tspan>
+    <tspan
+       x="427.82397"
+       y="479.02606"
+       style="font-family:Verdana"
+       id="tspan18083">Kensington</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Sloane Square"
+     x="362.68488"
+     y="455.75177"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="537.0835"
+     y="481.68622"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:middle;font-family:Verdana"
+     id="text18086">
+    <tspan
+       x="537.0835"
+       y="485.68622"
+       style="font-family:Verdana"
+       id="tspan18088">Sloane</tspan>
+    <tspan
+       x="537.0835"
+       y="497.68622"
+       style="font-family:Verdana"
+       id="tspan18090">Square</tspan>
+  </text>
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="Victoria"
+     x="437.87363"
+     y="413.98264"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="563.88965"
+     y="422.0351"
+     style="font-size:11px;font-family:Verdana"
+     id="text18093">
+    <tspan
+       x="563.88965"
+       y="426.0351"
+       id="tspan18095">Victoria</tspan>
+  </text>
+  <use
+     transform="translate(63.859375,6.3689844)"
+     id="use18097"
+     x="477.87363"
+     y="409.98264"
+     width="1000"
+     height="570"
+     xlink:href="#rail" />
+  <use
+     transform="translate(174.91328,13.495284)"
+     id="St. James's Park"
+     x="509.23935"
+     y="384.38644"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="675.01611"
+     y="413.8952"
+     style="font-size:11px;font-family:Verdana"
+     id="text18100">
+    <tspan
+       x="675.01611"
+       y="417.8952"
+       id="tspan18102">St. James's</tspan>
+    <tspan
+       x="675.01611"
+       y="429.8952"
+       id="tspan18104">Park</tspan>
+  </text>
+  <text
+     x="189.07204"
+     y="229.48625"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:start;font-family:Verdana"
+     id="text18417">
+    <tspan
+       x="189.07204"
+       y="233.48625"
+       style="font-family:Verdana"
+       id="tspan18419">Ladbroke</tspan>
+    <tspan
+       x="189.07204"
+       y="245.48625"
+       style="font-family:Verdana"
+       id="tspan18421">Grove</tspan>
+  </text>
+  <text
+     x="251.49146"
+     y="149.82622"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:middle;font-family:Verdana"
+     id="text18429">
+    <tspan
+       x="251.49146"
+       y="153.82622"
+       style="font-family:Verdana"
+       id="tspan18431">Westbourne</tspan>
+    <tspan
+       x="251.49146"
+       y="165.8261"
+       style="font-family:Verdana"
+       id="tspan18433">Park</tspan>
+  </text>
+  <text
+     x="340.65625"
+     y="172.52141"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:middle;font-family:Verdana"
+     id="text18435">
+    <tspan
+       x="340.65625"
+       y="176.52141"
+       style="font-family:Verdana"
+       id="tspan18437">Royal</tspan>
+    <tspan
+       x="340.65625"
+       y="188.52141"
+       style="font-family:Verdana"
+       id="tspan18439">Oak</tspan>
+  </text>
+  <text
+     x="981.23627"
+     y="269.96771"
+     style="font-size:11px;font-family:Verdana"
+     id="text18037">
+    <tspan
+       x="981.23627"
+       y="273.96771"
+       id="tspan18039">Monument</tspan>
+  </text>
+  <use
+     transform="translate(174.06508,1.2403843)"
+     id="use25139"
+     x="241.61812"
+     y="221.27679"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <text
+     x="104.67262"
+     y="295.47064"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Verdana"
+     id="text5460"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan5464"
+       x="104.67262"
+       y="295.47064">Wood Lane</tspan>
+  </text>
+  <use
+     transform="translate(-16.378326,91.876284)"
+     id="use4005"
+     x="106.53315"
+     y="282.45264"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <use
+     transform="translate(-15.496026,50.700584)"
+     id="use4007"
+     x="106.53315"
+     y="282.45264"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <use
+     transform="translate(9.7975745,13.936584)"
+     id="use4009"
+     x="106.53315"
+     y="282.45264"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <use
+     transform="translate(43.914574,-31.650816)"
+     id="use4011"
+     x="106.53315"
+     y="282.45264"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <use
+     transform="translate(85.972575,-66.944219)"
+     id="use4013"
+     x="106.53315"
+     y="282.45264"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <use
+     transform="translate(146.85378,-104.29652)"
+     id="use4015"
+     x="106.53315"
+     y="282.45264"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <use
+     transform="translate(230.67568,-83.708619)"
+     id="use4017"
+     x="106.53315"
+     y="282.45264"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+</svg>

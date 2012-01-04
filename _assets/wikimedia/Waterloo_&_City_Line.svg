@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="200.00000"
+   width="300.00000"
+   y="0.00000000"
+   x="0.00000000"
+   version="1.0"
+   sodipodi:version="0.32"
+   inkscape:version="0.45+devel"
+   sodipodi:docname="Waterloo_&amp;_City_Line.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata26848">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="892"
+     inkscape:window-width="1223"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.2345125"
+     inkscape:cx="138.66845"
+     inkscape:cy="94.167402"
+     inkscape:window-x="-6"
+     inkscape:window-y="-3"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs3">
+    <g
+       id="rail"
+       transform="matrix(0.200000,0.000000,0.000000,0.200000,-37.20000,-92.00000)">
+      <rect
+         id="body"
+         style="fill:#808080;stroke:none"
+         y="477.49323"
+         x="186.32202"
+         height="24.131897"
+         width="90.994476" />
+      <circle
+         id="boiler"
+         style="fill:#808080"
+         transform="translate(231.8686,481.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <circle
+         id="wheel1"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3.0000000"
+         transform="translate(201.8686,503.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <circle
+         id="wheel2"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3.0000000"
+         transform="translate(231.8686,503.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <circle
+         id="wheel3"
+         style="fill:#808080;stroke:#ffffff;stroke-width:3.0000000"
+         transform="translate(261.8686,503.5260)"
+         r="10.000000"
+         cy="0.00000000"
+         cx="0.00000000" />
+      <rect
+         id="chimney"
+         style="fill:#808080"
+         y="461.22095"
+         x="255.97266"
+         height="23.334524"
+         width="14.142136" />
+      <rect
+         id="cabin"
+         style="fill:none;stroke:#808080;stroke-width:4.0000000"
+         y="462.04932"
+         x="188.32202"
+         height="20.000000"
+         width="20.000000" />
+    </g>
+  </defs>
+  <defs
+     id="defs13">
+    <circle
+       id="intersection"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.5000000"
+       r="4.0000000"
+       cy="0.00000000"
+       cx="0.00000000" />
+  </defs>
+  <path
+     id="path17"
+     style="fill:none;stroke:#88d0c4;stroke-width:4.50000000000000000;opacity:1"
+     d="M 56.629834,156.32764 C 42.256192,147.10716 44.228072,140.65874 51.614942,133.37102 C 61.433812,123.68395 86.044642,116.38519 96.375648,109.56441 C 106.71481,102.73825 113.78843,91.390621 117.68692,77.453327 C 120.75485,66.485328 126.53958,54.043005 139.3774,51.67322 C 151.8849,49.364409 171.11197,56.241647 199.19293,52.281081 C 215.1343,50.032695 228.32513,43.995378 256.62983,35.539761"
+     sodipodi:nodetypes="csssssc" />
+  <use
+     xlink:href="#intersection"
+     height="300.00000"
+     width="300.00000"
+     y="89.606056"
+     x="250.00000"
+     id="Bank"
+     transform="translate(6.629834,-54.06630)" />
+  <text
+     id="text21"
+     style="font-size:11.000000;font-family:Verdana"
+     y="22.280092"
+     x="242.08287">
+    <tspan
+       id="tspan23"
+       y="26.28009"
+       x="242.08287">Bank</tspan>
+  </text>
+  <use
+     xlink:href="#intersection"
+     height="300.00000"
+     width="300.00000"
+     y="210.39394"
+     x="50.000000"
+     id="Waterloo"
+     transform="translate(6.629834,-54.06630)" />
+  <text
+     id="text26"
+     style="font-size:11.000000;font-family:Verdana"
+     y="167.92984"
+     x="32.138123">
+    <tspan
+       id="tspan28"
+       y="171.92984"
+       x="32.138123">Waterloo</tspan>
+  </text>
+  <use
+     xlink:href="#rail"
+     height="300.00000"
+     width="300.00000"
+     y="206.39394"
+     x="90.000000"
+     id="use30"
+     transform="translate(-42.61679,-30.51934)" />
+</svg>
