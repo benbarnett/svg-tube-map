@@ -5,4 +5,4 @@ This is in NO WAY associated with Transport for London, and was created over a y
 
 You'll see that its very messy and needs some tidying, please help :-)
 
-http://playground.benbarnett.net/tubemap/
+http://cv.benbarnett.net/svg-tube-map/
